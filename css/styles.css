@@ -1,0 +1,33 @@
+
+.nombre_champ{
+	display: block;
+}
+
+.linea_blanca{
+	height: 40px;
+	background-color: white;
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+.formulario{
+	background-color: white;
+	border: 1px solid #ddd;
+	padding:40px;
+}
+
+.titulo_trivia{
+	text-align: center;
+}
+
+.summoner{
+	color:white; 
+	float: left; 
+	margin-top: 15px;
+}
+
+#indexbox{
+	background-color:rgba(255, 255, 255, 0.5); 
+	border-radius: 30px;
+	text-align: center;
+}
