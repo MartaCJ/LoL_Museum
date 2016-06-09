@@ -18,8 +18,55 @@ Cambios en el lore de Shurima.
 Cambios en las imágenes/skins para que concuerden con las actualizaciones del juego. 
 Cambios en la carpeta de imágenes para eliminar algunas que no hagan falta.
 
-09/06/2016 - En proceso (Esto puede durar varios días)
+09/06/2016
 
-Revisión de las imágenes de la carpete de imágenes y su posterior actualización e inserción a la base de datos.
-Creación de la ficha de Taliyah e inserción en la base de datos.
-Maquetación del nuevo lore de Shurima e inserción en la base de datos.
+Creación ficha Taliyah
+
+CAMBIOS EN LA CARPETA DE IMÁGENES
+
+Eliminar imágenes centradas.
+Revisión de los campeones
+-Tristana (REEMPLAZO 5 SKIN)
+-Corki (REEMPLAZO 1 SKIN)
+-Fizz AÑADIR EN LA BASE DE DATOS →  Fizz_Splash_Tile_9.jpg
+						Fizz_Splash_9.jpg
+						Fizz_9.jpg
+
+-Gnar AÑADIR EN LA BASE DE DATOS → Gnar_Splash_Tile_4.jpg
+						Gnar_Splash_4.jpg
+						Gnar_4.jpg
+
+
+-Kayle AÑADIR EN LA BASE DE DATOS → Kayle_Splash_Tile_8.jpg
+						 Kayle_Splash_8.jpg
+						 Kayle_8.jpg
+
+-Kindred AÑADIR EN LA BASE DE DATOS → Kindred_Splash_Tile_2.jpg
+						     Kindred_Splash_2.jpg
+						     Kindred_2.jpg
+
+-Nidalee (REEMPLAZO 5 SKIN)
+
+-Nocturne AÑADIR EN LA BASE DE DATOS → Nocturne_Splash_Tile_6.jpg
+						       Nocturne_Splash_6.jpg
+						       Nocturne_6.jpg
+
+-Shyvana AÑADIR EN LA BASE DE DATOS → Shyvana_Splash_Tile_6.jpg
+						       Shyvana_Splash_6.jpg
+						       Shyvana_6.jpg
+
+-Singed AÑADIR EN LA BASE DE DATOS → Singed_Splash_Tile_6.jpg
+						    Singed_Splash_6.jpg
+						    Singed_6.jpg
+
+-Sivir (REEMPLAZO 1 SKIN) // ERROR DE DUPLICIDAD EN LA BBDD ARREGLADO	
+
+-Taliyah AÑADIDA  A  LA  BBDD  Y CON SUS CORRESPONDIENTES SKINS  // FALTA LORE  
+
+-Trundle (REEMPLAZO 3 SKIN)
+
+
+-Volibear AÑADIR EN LA BASE DE DATOS → Volibear_Splash_Tile_5.jpg
+						    Volibear_Splash_5.jpg
+						    Volibear_5.jpg
+
