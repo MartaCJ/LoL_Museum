@@ -9,7 +9,7 @@ $pdo = new PDO('mysql:host=' . $_MYSQL_HOST . ';dbname=' . $_MYSQL_DB .';charset
 /*$pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC); */ //establecemos los atriburos para el manejador de base de datos
 /*echo 'LA CONEXION A LA BASE DE DATOS SE REALIZÓ SATISFACTORIAMENTE
 ';*/
-} catch (PDOException $e) { // se captura la excepción e caso de error
+} catch (PDOException $e) { // se captura la excepción en caso de error
 echo 'ERROR AL CONECTAR A LA BASE DE DATOS
 ' . $e -> getMessage(); // mensaje de error
 die(); // se finaliza el script
