@@ -22,25 +22,13 @@ session_start();
 		<!-- Custom styles for this template -->
 		<link href="../css/dashboard.css" rel="stylesheet">
 
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!--[if lt IE 9]>
-			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<![endif]-->
-
 		<!--Estilos propios-->
 		<link rel="stylesheet" href="../css/styles.css">
-		<link rel="stylesheet" href="../css/style.css">
 
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<!--
-		<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-		<script src='http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js'></script>
 
-		 <script src="../js/index.js"></script>
--->
 	</head>
 
 	<body>
@@ -60,7 +48,7 @@ session_start();
 	      	//JoannaJenkins
 	      	if(!empty($_SESSION["summoner_name"])){
 		      	//if($_SESSION["summoner_name"] != $_SESSION["summoner_name"]){
-		      		echo "<p class='summoner'>Bienvenido <a href='http://www.lolking.net/summoner/euw/".$_SESSION['id']."' target='_blank'>".$_SESSION["summoner_name"]."</a></p>";
+		      		echo "<p class='summoner'>Bienvenido <a href='http://www.lolking.net/summoner/euw/".$_SESSION['id']."'>".$_SESSION["summoner_name"]."</a></p>";
 	      		//}
 
 	      	}
@@ -71,7 +59,7 @@ session_start();
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li id="index"><a href="../index.php">Index <span class="sr-only">(current)</span></a></li>
-        <li id="personajes" class="active"><a href="../personajes.php">Personajes</a></li>
+        <li id="personajes" class="active"><a href="../personajes.php">Campeones</a></li>
         <li id="historia"><a href="../historia.php">Historia</a></li>
 		<li id="logins"><a href="../logins.php">LoginScreens</a></li>
 		<li id="trivia"><a href="../trivia3.php">Trivia</a></li>
