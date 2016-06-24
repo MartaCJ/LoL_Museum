@@ -59,6 +59,7 @@ session_start();
     <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li id="index"><a href="../index.php">Index <span class="sr-only">(current)</span></a></li>
+        <li id="juego"><a href="../juego.php">Juego</a></li>
         <li id="personajes" class="active"><a href="../personajes.php">Campeones</a></li>
         <li id="historia"><a href="../historia.php">Historia</a></li>
 		<li id="logins"><a href="../logins.php">LoginScreens</a></li>

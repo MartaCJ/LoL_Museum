@@ -51,6 +51,14 @@ session_start();
 					});
 				</script>';
 		}
+		if ($location[$num-1]=="juego.php"){ 
+			echo '<script type="text/javascript">
+					$(document).ready(function () {
+						$(".navbar-inverse .navbar-nav > li > a").removeClass("active"); 
+						$("#juego").toggleClass("active");
+					});
+				</script>';
+		}
 		if ($location[$num-1]=="personajes.php"){ 
 			echo '<script type="text/javascript">
 					$(document).ready(function () {
@@ -129,6 +137,7 @@ session_start();
       
       <ul class="nav navbar-nav">
         <li id="index"><a href="index.php">Index <span class="sr-only">(current)</span></a></li>
+        <li id="juego"><a href="juego.php">Juego</a></li>
         <li id="personajes"><a href="personajes.php">Campeones</a></li>
         <li id="historia"><a href="historia.php">Historia</a></li>
 		<li id="logins"><a href="logins.php">LoginScreens</a></li>

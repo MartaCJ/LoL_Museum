@@ -33,6 +33,17 @@
 }
 
 
+#box{
+	background-color: white;
+	border: 1px solid #ddd;
+	padding:40px;
+	border-radius: 20px;
+}
+
+#img-redondita{
+	border-radius: 20px;
+}
+
 /*************STYLES FROM style.css****************/
 
 
