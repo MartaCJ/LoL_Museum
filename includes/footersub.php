@@ -21,7 +21,10 @@
 				<div class="row">
 				<h3>Páginas oficiales</h3>
 					<div class="col-xs-12 col-md-12">
-						<a href="http://www.riotgames.com/"><img src="../img/Tray.png" class="img-responsive"></a>
+						<ul class="nav navbar-nav social">
+							<li><a href="http://euw.leagueoflegends.com/es/"><img src="img/Tray_48.png" class="img-responsive"></a></li>
+							<li><a href="http://www.riotgames.com/"><img src="img/Tray.png" class="img-responsive"></a></li>
+						</ul>
 					</div>
 				</div>
 
