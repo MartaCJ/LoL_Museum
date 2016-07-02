@@ -4,12 +4,13 @@ LoL_Museum es una web en la cual se puede encontrar información del juego Leagu
 
 
 Nota:
-La versión gratuita de GitHub no permite subir carpetas con más de 1000 archivos, por consiguiente, no se puede subir la carpeta de imágenes complete. Sin embargo, todos los demás ficheros necesarios para que el proyecto funcione están subidos. Para cualquier duda contactar conmigo, yo tengo todas las versiones de la web subidas a Drive. Un saludo.
+GitHub no permite subir carpetas con más de 1000 archivos, por consiguiente, no se puede subir la carpeta de imágenes completa. Sin embargo, todos los demás ficheros necesarios para que el proyecto funcione están subidos. Para cualquier duda contactar conmigo, yo tengo todas las versiones de la web subidas a Drive. Un saludo.
 
 
 09/06/2016 - Futuros cambios
 
 Investigando mejoras y ampliaciones para la web:
+
   Posible nueva sección (Modos de juego alternativos).
   Posible nueva funcionalidad con la api (Rotación semanal gratuita de campeones).
   Cambios en la conexión a la api de League of Legends (añadir botón de desconexión).
@@ -25,9 +26,13 @@ Creación ficha Taliyah
 CAMBIOS EN LA CARPETA DE IMÁGENES
 
 Eliminar imágenes centradas.
+
 Revisión de los campeones
+
 -Tristana (REEMPLAZO 5 SKIN)
+
 -Corki (REEMPLAZO 1 SKIN)
+
 -Fizz AÑADIR EN LA BASE DE DATOS →  Fizz_Splash_Tile_9.jpg
 						Fizz_Splash_9.jpg
 						Fizz_9.jpg
@@ -73,8 +78,13 @@ Revisión de los campeones
 
 
 ACTUALIZACIÓN DEL README 02/07/2016
+
 -CAMBIOS EN LA WEB	
+
 *NUEVA SECCIÓN "JUEGO"
+
 *AÑADIR ENLACE A LA WEB EN EL FOOTER
+
 *ELIMINACIÓN DE ARCHIVOS INNECESARIOS
+
 *MODIFICADO FILTRO DE BÚSQUEDA DE LA SECCIÓN CAMPEONES PARA QUE CONTEMPLE LAS DIFERENTES OPCIONES.
